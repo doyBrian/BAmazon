@@ -79,7 +79,8 @@ function check_product(id, qty) {
         update_product(res[0], qty);
       }
       else {
-        console.log("Insufficient quantity! Sorry, your request cannot be processed.\n")
+        console.log("Insufficient quantity! Sorry, your request cannot be processed.\n");
+        console.log("Only " + res[0].Stock_Qty + " available for this product in our inventory.\n");
         ask_again();
       }
       
