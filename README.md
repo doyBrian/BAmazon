@@ -111,7 +111,7 @@ The app will take in orders from customers and deplete stock from the store's in
 
 <a href="https://drive.google.com/file/d/1gfSJfEv6GeBnYTvv5bGWwmArqOrgIS6A/view" target="blank">Click for DEMO</a>
 <br><br>
-<img src="screenshots/Initial_Products_Table_Supervisor_Level.png" alt="Initial products table Supervisor screenshot">
+<img src="screenshots/Initial_Products_Table.png" alt="Initial products table screenshot">
 <br>
 <img src="screenshots/Initial_Departments_Console_Table.png" alt="Initial Departments Console table">
 <br>
