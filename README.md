@@ -113,6 +113,8 @@ The app will take in orders from customers and deplete stock from the store's in
 <br><br>
 <img src="screenshots/Initial_Products_Table_Supervisor_Level.png" alt="Initial products table Supervisor screenshot">
 <br>
+<img src="screenshots/Initial_Departments_Console_Table.png" alt="Initial Departments Console table">
+<br>
 <img src="screenshots/Initial_Departments_Table.png" alt="Initial Departments table">
 <br>
 <img src="screenshots/New_Departments_Added_Table.png" alt="Updated table Supervisor screenshot">
